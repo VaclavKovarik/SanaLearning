@@ -1,0 +1,18 @@
+Binární soustava je èíselný systém, na kterém jsou založeny všechny digitální poèítaèe. Proto je dùležité, aby vývojáøi rozumìli binární, neboli dvojkové, matematice. Úèelem Bin2Dec je poskytnout praxi a porozumìní tomu, jak fungují binární výpoèty.
+
+Bin2Dec umožòuje uživateli zadat øetìzce až 8 binárních èíslic, 0 a 1, v libovolném poøadí a poté zobrazí jejich desítkový ekvivalent.
+
+Tato výzva vyžaduje, aby vývojáø, který ji implementuje, dodržoval následující omezení:
+
+Pole (Array) nesmí být použit k uchování binárních èíslic zadaných uživatelem.
+Urèení desítkového ekvivalentu konkrétní binární èíslice v sekvenci musí být vypoèítáno pomocí jediné matematické funkce, napøíklad pøirozeného logaritmu. Je na tobì, abys zjistila, kterou funkci použít.
+
+Funkce:
+
+Uživatel mùže zadat až 8 binárních èíslic do jednoho vstupního pole.
+Uživatel musí být upozornìn, pokud bylo zadáno nìco jiného než 0 nebo 1.
+Uživatel vidí výsledky v jednom výstupním poli obsahujícím desítkový (base 10) ekvivalent zadaného binárního èísla.
+
+
+Bonusové funkce:
+Uživatel mùže zadat promìnný poèet binárních èíslic.
